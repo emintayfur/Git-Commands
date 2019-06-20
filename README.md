@@ -3,6 +3,7 @@ Git Commands
 
 ## Translated Versions
 - [Versão em português](READMEpt.md)
+- [Türkçe Versiyon](README_tr.md)
 
 ___
 
