@@ -29,8 +29,9 @@ _Sık sık kullanılan Git komutlarının listesi_
 | `git commit -m "[aciklamaniz]"` | Değişiklikler hakkında bir açıklama veya kısa not belirtirsiniz. |
 | `git rm -r [dosya-adi.txt]` | Git dizininden belirtilen dosyayı siler (veya klasörü) |
 
-### Branch ve Merge
 _Şu anlık burada kaldım, devam ediyor olacağım_
+
+### Branch ve Merge
 | Komut   | Açıklama    |
 | ------- | ----------- |
 | `git branch` | List branches (the asterisk denotes the current branch) |
