@@ -3,7 +3,7 @@ Comandos Git
 
 ## Versões traduzidas
 - [English version (original)](README.md)
-
+- [Türkçe Versiyon](READMEtr.md)
 ___
 
 _Uma lista dos comandos Git mais usados_
