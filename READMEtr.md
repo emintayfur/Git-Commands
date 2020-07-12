@@ -66,7 +66,7 @@ _Şu anlık burada kaldım, devam ediyor olacağım_
 
 | Command | Description |
 | ------- | ----------- |
-| `git log` | View changes |
-| `git log --summary` | View changes (detailed) |
-| `git diff [source branch] [target branch]` | Preview changes before merging |
+| `git log` | Değişiklikleri göster |
+| `git log --summary` | Değişiklikleri detaylı bir şekilde göster |
+| `git diff [source branch] [target branch]` | Merge etmeden önce değişiklikleri göster |
 
