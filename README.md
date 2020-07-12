@@ -4,7 +4,6 @@ Git Commands
 ## Translated Versions
 - [Versão em português](READMEpt.md)
 - [Türkçe Versiyon](READMEtr.md)
-- [Türkçe Versiyon](http://localhost:8080/)
 
 ___
 
